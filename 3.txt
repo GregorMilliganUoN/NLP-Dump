@@ -1,0 +1,39 @@
+Cluster 0
+ day
+ work
+ good
+ love
+ like
+ today
+ miss
+ want
+ lol
+ know
+
+
+Cluster 1
+ thank
+ time
+ good
+ love
+ follow
+ day
+ great
+ work
+ like
+ lol
+
+
+Cluster 2
+ got
+ home
+ today
+ work
+ day
+ good
+ new
+ lol
+ like
+ time
+
+
